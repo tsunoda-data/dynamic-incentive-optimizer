@@ -1,4 +1,4 @@
-# 🍗 Dynamic Incentive Optimizer v2 for QSR Loyalty Program
+# Dynamic Incentive Optimizer v2 for QSR Loyalty Program
 
 **Applying Duolingo's Streak Psychology to KFC's Chicken Miles — Uplift Modeling × Mathematical Optimization**
 
@@ -10,9 +10,9 @@
 
 ---
 
-> 📝 **For Business & Marketing Context**  
+> **For Business & Marketing Context**  
 > この分析のビジネス背景・CRM戦略についての詳細は、NOTE記事をご覧ください。  
-> 👉 [NOTE記事：「毎月28日しか行かない」顧客の脳内をハックせよ]()
+> [NOTE記事：「毎月28日しか行かない」顧客の脳内をハックせよ]()
 
 ---
 
@@ -95,22 +95,22 @@ $$\text{Profit}_i(d) = \underbrace{\text{CATE}_i(d) \times V_i \times (1-C)}_{\t
 
 | Rank | 90日間必要マイル | ダウングレードルール |
 |------|----------------|----------------|
-| 🥉 レギュラー | 0 | — |
-| 🥉 ブロンズ | 30 | 未達 → レギュラーへ1段階のみ |
-| 🥈 シルバー | 100 | 未達 → ブロンズへ1段階のみ |
-| 🥇 ゴールド | 200 | 未達 → シルバーへ1段階のみ |
-| 💎 プラチナ | 400 | 未達 → ゴールドへ1段階のみ |
+| レギュラー | 0 | — |
+| ブロンズ | 30 | 未達 → レギュラーへ1段階のみ |
+| シルバー | 100 | 未達 → ブロンズへ1段階のみ |
+| ゴールド | 200 | 未達 → シルバーへ1段階のみ |
+| プラチナ | 400 | 未達 → ゴールドへ1段階のみ |
 
 ---
 
 ## Non-Financial Incentives（完全デジタル完結）
 
-> ⚠️ QSRのピークタイムにおける「優先確保」「裏メニュー」は **限界費用ゼロどころか甚大な機会損失**を生む。  
+> QSRのピークタイムにおける「優先確保」「裏メニュー」は **限界費用ゼロどころか甚大な機会損失**を生む。  
 > 本システムでは、**店舗オペレーションへの負荷がゼロのデジタルコンテンツのみ**を使用する。
 
-- 🏅 アプリ内限定シークレット・カーネルバッジ（称号）
-- 📱 次回新商品の先行情報・ビジュアルへの限定アクセス権
-- 🎨 オリジナルスマホ壁紙・限定デジタルスタンプの配布
+- アプリ内限定シークレット・カーネルバッジ（称号）
+- 次回新商品の先行情報・ビジュアルへの限定アクセス権
+- オリジナルスマホ壁紙・限定デジタルスタンプの配布
 
 ---
 
@@ -179,13 +179,13 @@ python visualize.py           # → outputs/*.png
 | **Phase 0** | 引当金PL影響シミュレーション + グランドファーザー条項 | 📋 Prerequisite |
 | **Phase 1** | 動的ホールドアウトA/BテストによるRCTデータ蓄積 | 🔜 Planned |
 | **Phase 2** | 完全デジタル非金銭インセンティブの本番展開 | 🔜 Planned |
-| **Phase 3** | CATEベースAI最適化の全面展開 | ✅ **本リポジトリで実装** |
+| **Phase 3** | CATEベースAI最適化の全面展開 |  **本リポジトリで実装** |
 
 ---
 
 ## Ethics & Data Privacy
 
-> ⚠️ 本プロジェクトで使用するデータは **100% 合成データ（Synthetic Data）** です。  
+> 本プロジェクトで使用するデータは **100% 合成データ（Synthetic Data）** です。  
 > 実際の顧客データは一切使用していません。KFCの公開情報を参考にしたケーススタディであり、日本ケンタッキー・フライド・チキン株式会社との提携・委託関係はありません。
 
 ---
@@ -194,6 +194,6 @@ python visualize.py           # → outputs/*.png
 
 **[Your Name]** — CRM Marketer × Data Scientist
 
-- 📝 [NOTE]()
-- 💻 [GitHub]()
-- 💼 [LinkedIn]()
+-  [NOTE]()
+-  [GitHub]()
+-  [LinkedIn]()
