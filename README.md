@@ -1,4 +1,4 @@
-# Dynamic Incentive Optimizer v2 for QSR Loyalty Program
+# Dynamic Incentive Optimizer for QSR Loyalty Program
 
 **Applying Duolingo's Streak Psychology to KFC's Chicken Miles — Uplift Modeling × Mathematical Optimization**
 
@@ -20,15 +20,15 @@
 
 クイックサービスレストラン（QSR）の会員プログラムにおける**顧客離脱を防ぎ、LTV（顧客生涯価値）を最大化**する、Uplift Modeling × 数理最適化のインセンティブ制御システム。
 
-### v1 → v2 の主要変更点
+### 概要
 
-| 項目 | v1 | v2 |
-|------|----|-----|
-| アーキテクチャ | 単一LightGBM | **T-Learner (Uplift Modeling)** |
-| ランク判定期間 | 30日 | **90日ローリング** |
-| 非金銭インセンティブ | 物理オペレーション依存 | **完全デジタル完結** |
-| 目的関数 | $P_B \times V \times (1-C-d)$ | **CATE × 粗利 − 割引コスト − ペナルティ** |
-| 評価指標 | AUC-ROC | **Qini曲線, CATE分布, 増分ROI** |
+| 項目 | 内容 |
+|------|-----|
+| アーキテクチャ | **T-Learner (Uplift Modeling)** |
+| ランク判定期間 | **90日ローリング** |
+| 非金銭インセンティブ | **完全デジタル完結** |
+| 目的関数 | **CATE × 粗利 − 割引コスト − ペナルティ** |
+| 評価指標 | **Qini曲線, CATE分布, 増分ROI** |
 
 ### Core Idea: Duolingo → KFC Transfer
 
