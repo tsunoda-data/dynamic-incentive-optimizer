@@ -159,8 +159,8 @@ dynamic-incentive-optimizer-v2/
 ### Option 2: Local Execution
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dynamic-incentive-optimizer-v2.git
-cd dynamic-incentive-optimizer-v2
+git clone [https://github.com/tsunoda-data/dynamic-incentive-optimizer.git](https://github.com/tsunoda-data/dynamic-incentive-optimizer.git)
+cd dynamic-incentive-optimizer
 pip install -r requirements.txt
 
 python generate_data.py       # → data/customers.csv
