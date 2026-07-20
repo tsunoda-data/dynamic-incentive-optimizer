@@ -12,7 +12,7 @@
 
 > **For Business & Marketing Context**  
 > この分析のビジネス背景・CRM戦略についての詳細は、NOTE記事をご覧ください。  
-> [NOTE記事：「毎月28日しか行かない」顧客の脳内をハックせよ]()
+> [NOTE記事：「毎月28日しか行かない」顧客の脳内をハックせよ](https://note.com/tsunoda_data/n/n94bdcf5478db?sub_rt=share_pw)
 
 ---
 
