@@ -195,4 +195,3 @@ python visualize.py           # → outputs/*.png
 **[Tsunoda]** — CRM Marketer × Data Scientist
 
 -  [NOTE](https://note.com/tsunoda_data/n/n94bdcf5478db?sub_rt=share_pw)
--  [GitHub]()
