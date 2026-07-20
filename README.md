@@ -192,8 +192,7 @@ python visualize.py           # → outputs/*.png
 
 ## Author
 
-**[Your Name]** — CRM Marketer × Data Scientist
+**[Tsunoda]** — CRM Marketer × Data Scientist
 
--  [NOTE]()
+-  [NOTE](https://note.com/tsunoda_data/n/n94bdcf5478db?sub_rt=share_pw)
 -  [GitHub]()
--  [LinkedIn]()
